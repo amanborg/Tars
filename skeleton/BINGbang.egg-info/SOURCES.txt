@@ -1,0 +1,9 @@
+setup.py
+./bin/scr.py
+BING/BING.py
+BING/__init__.py
+BINGbang.egg-info/PKG-INFO
+BINGbang.egg-info/SOURCES.txt
+BINGbang.egg-info/dependency_links.txt
+BINGbang.egg-info/requires.txt
+BINGbang.egg-info/top_level.txt
